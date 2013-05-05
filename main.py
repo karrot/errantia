@@ -44,7 +44,7 @@ def move():
     cordx = 1
     cordy = 1
 
-    while a == (1):
+    while a == 0:
 
         m = (raw_input("Where to?"))
         if m == ("w"):
